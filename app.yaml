@@ -1,0 +1,11 @@
+runtime: nodejs16
+
+
+env_variables: 
+  MONGO_URI: mongodb+srv://mertcankaraman2000:mertcan123@cluster0.pn9zopj.mongodb.net/?retryWrites=true&w=majority
+  JWT_SECRET: BURAKZUTDELEK
+  LOCATIONIQ_API_KEY: pk.fa82aed250d2defaa4213c171fb5309a
+  FIREBASE_WEB_API_KEY: 0I7SHdj3se6lSNq92HHtPb29W2o
+  URL: http://192.168.1.38:3000
+
+service: smart-pet-app
